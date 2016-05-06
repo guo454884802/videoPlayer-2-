@@ -1,0 +1,14 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+pod 'Alamofire','~> 3.0'
+
+pod 'MBProgressHUD','~> 0.9.1'
+
+pod 'AJWValidator'
+
+pod 'AVOSCloud'
+
+use_frameworks!
+pod 'ReachabilitySwift', :git => 'https://github.com/ashleymills/Reachability.swift'
